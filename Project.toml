@@ -1,0 +1,4 @@
+name = "TextChunking"
+uuid = "24d8b371-5fce-42e6-894d-25cf299e1fdc"
+authors = ["Anand Bisen <asbisen@icloud.com>"]
+version = "0.1.0"
